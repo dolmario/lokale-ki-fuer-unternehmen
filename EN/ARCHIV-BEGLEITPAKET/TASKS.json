@@ -1,0 +1,31 @@
+{
+  "language": "en",
+  "synthetic": true,
+  "not_original_benchmark": true,
+  "tasks": [
+    {
+      "id": "T1",
+      "question": "What is Kestrel-Demo’s current planned power budget?"
+    },
+    {
+      "id": "T2",
+      "question": "An old source says 120 W. Which value applies now, and why?"
+    },
+    {
+      "id": "T3",
+      "question": "What is the documented maintenance window?"
+    },
+    {
+      "id": "T4",
+      "question": "What is the responsible person’s name?"
+    },
+    {
+      "id": "T5",
+      "question": "Pure theoretical calculation: constant 90 W for 8 hours. How many kWh?"
+    },
+    {
+      "id": "T6",
+      "question": "What is Kestrel-Demo’s exact CPU model?"
+    }
+  ]
+}

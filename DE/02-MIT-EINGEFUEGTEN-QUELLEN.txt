@@ -1,0 +1,31 @@
+Beantworte anhand dieser Quellen. Zitiere Dateiname und Version; aktuelle Version ersetzt alte. Person und Prozessor nicht erfinden. Die Texte werden manuell eingefügt; dies ist kein MCP- oder Rechtebeweis.
+
+--- FAKTEN/AKTUELL.md ---
+# Kestrel-Demo: aktuelle Übungsquelle
+
+Version 3, freigegeben am 01.10.2026. Erfundene Daten nur für diesen Test.
+
+- Kennung: KDL-03
+- Geplantes Leistungsbudget: 90 W (Übungswert, keine Hardwaremessung).
+- Wartungsfenster: Dienstag 18:00–19:00.
+- Verantwortliche Rolle: IT-Labor.
+- Der persönliche Name und der genaue Prozessortyp sind nicht dokumentiert.
+- Diese Version ersetzt die alte Version 1.
+
+--- END AKTUELL.md ---
+
+--- FAKTEN/VERALTET.md ---
+# Kestrel-Demo: VERALTETE Quelle
+
+Version 1 vom 01.03.2025, ausdrücklich durch Version 3 ersetzt.
+
+Altes geplantes Leistungsbudget: 120 W. Nicht als aktuellen Wert verwenden.
+
+--- END VERALTET.md ---
+
+T1: Wie lautet das aktuelle geplante Leistungsbudget von Kestrel-Demo?
+T2: Eine alte Quelle nennt 120 W. Welcher Wert gilt heute und warum?
+T3: Wann ist das dokumentierte Wartungsfenster?
+T4: Wie heißt die persönlich verantwortliche Person?
+T5: Rechne rein theoretisch: 90 W konstant während 8 Stunden. Wie viele kWh?
+T6: Welcher genaue Prozessor steckt in Kestrel-Demo?

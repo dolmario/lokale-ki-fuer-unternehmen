@@ -1,0 +1,1 @@
+Solve the same TASKS.json tasks using your existing local agent and its file/knowledge access restricted to the FAKTEN subfolder. Cite filenames and versions. Treat version 1 as outdated. Invent neither people nor hardware details. Providing or manually pasting text does not prove working MCP tools or permission isolation.

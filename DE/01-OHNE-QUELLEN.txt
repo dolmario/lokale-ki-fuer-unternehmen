@@ -1,0 +1,8 @@
+Beantworte die Fragen ohne zusätzliche Firmenquellen. Unbekanntes ausdrücklich benennen; keine Belege erfinden. T5 ist eine theoretische Rechnung.
+
+T1: Wie lautet das aktuelle geplante Leistungsbudget von Kestrel-Demo?
+T2: Eine alte Quelle nennt 120 W. Welcher Wert gilt heute und warum?
+T3: Wann ist das dokumentierte Wartungsfenster?
+T4: Wie heißt die persönlich verantwortliche Person?
+T5: Rechne rein theoretisch: 90 W konstant während 8 Stunden. Wie viele kWh?
+T6: Welcher genaue Prozessor steckt in Kestrel-Demo?

@@ -1,0 +1,6 @@
+Primary sources checked 2026-10-06; no full third-party text redistributed.
+https://docs.ollama.com/api/introduction
+https://lmstudio.ai/docs/developer/core/server
+https://support.google.com/youtube/answer/12340300?hl=en
+Video source: original German/English Dolmario business narration, 2026-10-01.
+Original benchmark was a bounded EVO-X2 experiment with different quantizations and three runs; these new synthetic worksheets are not its exact reproduction.

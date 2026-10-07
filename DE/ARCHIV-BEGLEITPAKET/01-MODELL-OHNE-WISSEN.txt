@@ -1,0 +1,1 @@
+Beantworte die Aufgaben aus TASKS.json ohne zusätzliche Quellen oder Werkzeuge. Bezeichne unbekannte Firmenfakten ausdrücklich als unbekannt und erfinde keine Belege. T5 enthält die benötigten Zahlen und ist unabhängig von Firmenwissen lösbar.
