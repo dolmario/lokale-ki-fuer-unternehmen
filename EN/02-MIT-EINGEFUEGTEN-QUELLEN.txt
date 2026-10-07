@@ -1,0 +1,31 @@
+Answer from these sources. Cite filename and version; current supersedes obsolete. Do not invent person or CPU. Text is pasted manually; this is not an MCP or access-control test.
+
+--- FAKTEN/AKTUELL.md ---
+# Kestrel-Demo: current exercise source
+
+Version 3, approved 2026-10-01. Fictional data for this exercise only.
+
+- Identifier: KDL-03
+- Planned power budget: 90 W (exercise value, not a hardware measurement).
+- Maintenance window: Tuesday 18:00–19:00.
+- Responsible role: IT laboratory.
+- The person’s name and exact CPU type are not documented.
+- This version supersedes the old version 1.
+
+--- END AKTUELL.md ---
+
+--- FAKTEN/VERALTET.md ---
+# Kestrel-Demo: OUTDATED source
+
+Version 1 dated 2025-03-01, explicitly superseded by version 3.
+
+Old planned power budget: 120 W. Do not use as the current value.
+
+--- END VERALTET.md ---
+
+T1: What is Kestrel-Demo’s current planned power budget?
+T2: An old source says 120 W. Which value applies now, and why?
+T3: What is the documented maintenance window?
+T4: What is the responsible person’s name?
+T5: Pure theoretical calculation: constant 90 W for 8 hours. How many kWh?
+T6: What is Kestrel-Demo’s exact CPU model?

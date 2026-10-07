@@ -1,0 +1,31 @@
+{
+  "language": "de",
+  "synthetic": true,
+  "not_original_benchmark": true,
+  "tasks": [
+    {
+      "id": "T1",
+      "question": "Wie lautet das aktuelle geplante Leistungsbudget von Kestrel-Demo?"
+    },
+    {
+      "id": "T2",
+      "question": "Eine alte Quelle nennt 120 W. Welcher Wert gilt heute und warum?"
+    },
+    {
+      "id": "T3",
+      "question": "Wann ist das dokumentierte Wartungsfenster?"
+    },
+    {
+      "id": "T4",
+      "question": "Wie heißt die persönlich verantwortliche Person?"
+    },
+    {
+      "id": "T5",
+      "question": "Rechne rein theoretisch: 90 W konstant während 8 Stunden. Wie viele kWh?"
+    },
+    {
+      "id": "T6",
+      "question": "Welcher genaue Prozessor steckt in Kestrel-Demo?"
+    }
+  ]
+}
