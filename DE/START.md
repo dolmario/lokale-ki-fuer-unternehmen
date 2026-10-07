@@ -1,7 +1,9 @@
 # Lokale KI: Quellenvergleich zum Selbermachen
 
+Backend-Zuordnung: Strix Halo nutzt in unserer llama.cpp-Reihe Vulkan; RTX 3080 Ti und RTX 3090 Ti nutzen den CUDA-Weg. Die Firmenübung verwendet deinen vorhandenen Chat/API-Server und wechselt kein Backend.
+
 ## Anfängerweg ohne vorausgesetzten Agenten
-1. Deinen funktionierenden lokalen Chat verwenden. Neue Basis: [eigene Vulkan-Anleitung](https://github.com/dolmario/llama-cpp-vulkan-tutorial). Diese Übung installiert weder Modell noch Firmensystem. Die Dateien sind neue synthetische Lernaufgaben, keine Reproduktion des alten Benchmarks.
+1. Deinen funktionierenden lokalen Chat verwenden. Neue Basis: [AMD/Vulkan- oder NVIDIA/CUDA-Anleitung passend zum Rechner](https://github.com/dolmario/llama-cpp-vulkan-tutorial). Diese Übung installiert weder Modell noch Firmensystem. Die Dateien sind neue synthetische Lernaufgaben, keine Reproduktion des alten Benchmarks.
 2. Modellname, Version, Quantisierung und Einstellungen in AUSWERTUNG.csv notieren. Keine echten Kundendaten nötig.
 3. Bedingung A: neuer Chat; 01-OHNE-QUELLEN.txt einfügen. Keine FAKTEN-Dateien mitgeben. Antworten selbst speichern. T1/T2/T3/T4/T6 brauchen unbekannte Firmenfakten; T5 ist ohne Firmenwissen rechenbar.
 4. Bedingung B: wieder neuer Chat, gleiches Modell; 02-MIT-EINGEFUEGTEN-QUELLEN.txt einfügen. Darin stehen beide kurzen Quelldateien mit Namen und Version. Dieser Weg benötigt keine Dateiwerkzeuge. Er beweist weder funktionierendes MCP/RAG noch Rechteabschottung.

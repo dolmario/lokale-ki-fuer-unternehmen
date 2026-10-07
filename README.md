@@ -18,3 +18,6 @@ Neue Filme mit MOSS-s44, eigener fiktiver Moderatorin und DOLMARIO-AI-Lama sind 
 New films with MOSS-s44, our fictional presenter and DOLMARIO-AI-llama are in production; complete listening is not claimed. Original films remain preserved.
 
 [SHA256-Prüfsummen / checksums](SHA256SUMS.txt). Keine Modellgewichte im Download; Bedingungen externer Software und Modelle gelten separat. No model weights included; third-party software/model terms remain separate.
+
+
+**Backend-Zuordnung / backend routing, 07.10.2026:** Für eine neue Serverbasis die hardwarepassende [llama.cpp-Anleitung](https://github.com/dolmario/llama-cpp-vulkan-tutorial) wählen: AMD Strix Halo → Vulkan, RTX 3080 Ti / RTX 3090 Ti → CUDA. Die Firmenübung verändert kein Backend. The business exercise uses your existing server; it does not change its backend.

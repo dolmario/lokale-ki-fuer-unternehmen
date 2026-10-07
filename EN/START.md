@@ -1,7 +1,9 @@
 # Local AI: a source comparison you can run yourself
 
+Backend routing: our llama.cpp series uses Vulkan for Strix Halo and CUDA for RTX 3080 Ti / RTX 3090 Ti. This business exercise uses your existing chat/API server and does not switch backends.
+
 ## Beginner path without assuming an agent
-1. Use your working local chat. For a new basis: [our Vulkan tutorial](https://github.com/dolmario/llama-cpp-vulkan-tutorial). This exercise installs neither a model nor a company system. These are new synthetic learning tasks, not a reproduction of the earlier benchmark.
+1. Use your working local chat. For a new basis: [hardware-matched AMD/Vulkan or NVIDIA/CUDA tutorial](https://github.com/dolmario/llama-cpp-vulkan-tutorial). This exercise installs neither a model nor a company system. These are new synthetic learning tasks, not a reproduction of the earlier benchmark.
 2. Record model name, version, quantization and settings in AUSWERTUNG.csv. No actual customer data needed.
 3. Condition A: new chat; paste 01-OHNE-QUELLEN.txt without FAKTEN files. Save actual answers. T1/T2/T3/T4/T6 depend on unknown business facts; T5 is calculable without business knowledge.
 4. Condition B: another fresh chat, same model; paste 02-MIT-EINGEFUEGTEN-QUELLEN.txt. It includes both short sources with filenames and versions. This path requires no file tools. It proves neither working MCP/RAG nor access restrictions.
